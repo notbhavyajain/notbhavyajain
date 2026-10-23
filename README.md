@@ -15,7 +15,7 @@ Web3 creator from Delhi, India. I read the docs, trace token incentives and chec
 
 #### Projects
 
-- **[Swappy](https://github.com/notbhavyajain/Swappy)** — swap & bridge tokens across Ethereum, Arbitrum, Optimism, Base and Polygon. Next.js + wagmi + LI.FI SDK.
+- **[Swappy](https://github.com/notbhavyajain/Swappy)** — swap & bridge tokens across Ethereum, Arbitrum, Optimism, Base and Polygon. Next.js + wagmi + LI.FI SDK. [Live ↗](https://notbhavyajain.github.io/Swappy/)
 
 #### Find me
 
